@@ -17,3 +17,13 @@
 </p>
 
 ###
+<h3 align="left">🛠️ Tech Stack</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,bash,linux,nginx,jenkins,terraform,gitlab,githubactions,prometheus,grafana,redhat,ubuntu" />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40"/>
+</p>
+
+###
